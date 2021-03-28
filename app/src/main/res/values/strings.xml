@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="name">Please enter the name.</string>
+    <string name="position">Enter the position.</string>
+    <string name="salary">Enter the salary.</string>
+    <string name="status">Status</string>
+    <string name="register">REGISTER</string>
+    <string name="title">Employee registration.</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
